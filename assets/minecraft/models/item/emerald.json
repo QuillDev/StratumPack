@@ -1,0 +1,38 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/emerald"
+	},
+	"overrides": [
+        {
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "custom/shard_common"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 2
+		},
+		"model": "custom/shard_uncommon"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 3
+		},
+		"model": "custom/shard_rare"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 4
+		},
+		"model": "custom/shard_epic"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 5
+		},
+		"model": "custom/shard_legendary"
+	}
+]
+}
