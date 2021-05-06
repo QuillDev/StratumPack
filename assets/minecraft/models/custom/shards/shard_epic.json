@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "custom/shard_rare"
+        "layer0": "custom/shards/shard_epic"
     }
 }

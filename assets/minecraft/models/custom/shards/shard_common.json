@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "custom/shard_common"
+        "layer0": "custom/shards/shard_common"
     }
 }

@@ -8,31 +8,31 @@
 		"predicate": {
 			"custom_model_data": 1
 		},
-		"model": "custom/shard_common"
+		"model": "custom/shards/shard_common"
 	},
     {
 		"predicate": {
 			"custom_model_data": 2
 		},
-		"model": "custom/shard_uncommon"
+		"model": "custom/shards/shard_uncommon"
 	},
     {
 		"predicate": {
 			"custom_model_data": 3
 		},
-		"model": "custom/shard_rare"
+		"model": "custom/shards/shard_rare"
 	},
     {
 		"predicate": {
 			"custom_model_data": 4
 		},
-		"model": "custom/shard_epic"
+		"model": "custom/shards/shard_epic"
 	},
     {
 		"predicate": {
 			"custom_model_data": 5
 		},
-		"model": "custom/shard_legendary"
+		"model": "custom/shards/shard_legendary"
 	}
 ]
 }
