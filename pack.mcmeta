@@ -1,1 +1,6 @@
-{"pack":{"pack_format":6,"description":"Pack for Stratum minecraft server ","pack_version":1.16}}
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "Stratum Custom Resource Pack"
+  }
+}
