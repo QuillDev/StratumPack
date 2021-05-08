@@ -1,0 +1,38 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/emerald"
+	},
+	"overrides": [
+        {
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "custom/geodes/geode_common"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 2
+		},
+		"model": "custom/geodes/geode_uncommon"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 3
+		},
+		"model": "custom/geodes/geode_rare"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 4
+		},
+		"model": "custom/geodes/geode_epic"
+	},
+    {
+		"predicate": {
+			"custom_model_data": 5
+		},
+		"model": "custom/geodes/geode_legendary"
+	}
+]
+}
