@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/golden_sword"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/daggers/dagger_golden"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/daggers/dagger_golden"},
+    {"predicate": {"custom_model_data":2}, "model": "custom/scythes/scythe_golden"}
   ]
 }
