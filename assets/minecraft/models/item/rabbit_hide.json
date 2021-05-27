@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/rabbit_hide"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/trinketbags/trinketbag_small"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/trinketbags/trinketbag_medium"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/trinketbags/trinketbag_large"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/trinketbags/trinketbag_huge"
+        }
+    ]
+}

@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "custom/daggers/dagger_stone"},
-    {"predicate": {"custom_model_data":2}, "model": "custom/scythes/scythe_stone"}
+    {"predicate": {"custom_model_data":2}, "model": "custom/scythes/scythe_stone"},
+    {"predicate": {"custom_model_data":3}, "model": "custom/cutlasses/cutlass_stone"}
   ]
 }
